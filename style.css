@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #333;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 0 1rem;
+    }
+    li a {
+        color: #fff;
+    }
+}
+{ main content {
+    padding: 5rem;
+}
+
+{ main section {
+    
+
+}
